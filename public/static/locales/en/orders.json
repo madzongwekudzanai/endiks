@@ -1,0 +1,18 @@
+{
+    "orders": "Orders",
+    "view-your-orders": "View Your Orders",
+    "order-detail": "Order Detail",
+    "home": "Home",
+    "order-id": "Order ID",
+    "title": "Title",
+    "quantity": "Quantity",
+    "loading": "loading...",
+    "date-ordered": "Date Ordered",
+    "status": "Status",
+    "estimate-weight": "Estimate Weight(kg)",
+    "information": "Information",
+    "pending": "Pending",
+    "in-transit": "In-transit",
+    "received": "Received",
+    "view-detail": "View Detail"
+}

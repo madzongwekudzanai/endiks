@@ -1,0 +1,49 @@
+{
+  "name": "endiks",
+  "version": "1.0.0",
+  "description": "ecommerce marketplace made using next.js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server/app.js --watch server",
+    "start": "node server/app.js",
+    "build": "next build",
+    "heroku-postbuild": "next build"
+  },
+  "author": "kudzanai madzongwe",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^3.0.0",
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^4.5.0",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.5.0",
+    "gravatar": "^1.8.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.26.0",
+    "mongoose": "^5.9.18",
+    "nexmo": "^2.9.1",
+    "next": "^9.4.4",
+    "next-i18next": "^6.0.2",
+    "nodemailer": "^6.4.8",
+    "nprogress": "^0.2.0",
+    "react": "^16.13.1",
+    "react-avatar-editor": "^11.0.9",
+    "react-bootstrap": "^1.0.1",
+    "react-cookie": "^4.0.3",
+    "react-dom": "^16.13.1",
+    "react-lazyload": "^3.1.0",
+    "react-moment": "^0.9.7",
+    "react-owl-carousel2": "^0.3.0",
+    "react-redux": "^7.2.0",
+    "react-slick": "^0.26.1",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
+  }
+}

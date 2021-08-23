@@ -1,0 +1,14 @@
+{
+    "cart": "Cart",
+    "home": "Home",
+    "shopping-cart": "Shopping Cart",
+    "product-name": "Product name",
+    "price": "Price",
+    "quantity": "Quantity",
+    "total": "Total",
+    "loading": "loading...",
+    "sub-total": "Subtotal",
+    "proceed-to-checkout": "Proceed to checkout",
+    "sold-by": "Sold By:",
+    "seller-to-agent": "SELLER to Freight"
+}

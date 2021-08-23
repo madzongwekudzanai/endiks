@@ -1,0 +1,18 @@
+{
+    "orders": "订单",
+    "view-your-orders": "查看您的订单",
+    "order-detail": "订单详情",
+    "home": "家",
+    "order-id": "订单编号",
+    "title": "标题",
+    "quantity": "数量",
+    "loading": "载入中...",
+    "date-ordered": "订购日期",
+    "status": "状态",
+    "estimate-weight": "估计体重（公斤）",
+    "information": "信息",
+    "pending": "待定",
+    "in-transit": "在途中",
+    "received": "已收到",
+    "view-detail": "阅览详情"
+}

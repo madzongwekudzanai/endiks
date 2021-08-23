@@ -1,0 +1,14 @@
+{
+    "cart": "大车",
+    "home": "家",
+    "shopping-cart": "购物车",
+    "product-name": "产品名称",
+    "price": "价钱",
+    "quantity": "数量",
+    "total": "总",
+    "loading": "载入中...",
+    "sub-total": "小计",
+    "proceed-to-checkout": "进行结算",
+    "sold-by": "卖方：",
+    "seller-to-agent": "从卖方到货运"
+}

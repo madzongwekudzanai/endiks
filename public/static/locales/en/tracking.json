@@ -1,0 +1,20 @@
+{
+    "order-tracking": "Order Tracking",
+    "tack-your-order": "Track your order",
+    "home": "Home",
+    "order-id": "Order ID",
+    "enter-order-id": "Enter your order ID",
+    "current-location": "Current Order Location",
+    "order-details": "Order Details",
+    "freight-tracking-code": "Freight Tracking Code",
+    "shipping-cost": "Shipping Cost($)",
+    "actual-weight": "Actual Weight(kg)",
+    "ready-for-collection": "Ready For Collection",
+    "seller-sent": "Seller Sent",
+    "freight-received": "Freight Received",
+    "freight-sent": "Freight Sent",
+    "buyer-received": "Buyer Received",
+    "true": "True",
+    "false": "False",
+    "track-desc": "To track your order please enter your Order ID in the box below and press the 'Track Your Order' button."
+}

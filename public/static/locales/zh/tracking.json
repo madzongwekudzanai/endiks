@@ -1,0 +1,20 @@
+{
+    "order-tracking": "订单跟踪",
+    "tack-your-order": "追踪您的订单",
+    "home": "家",
+    "order-id": "订单编号",
+    "enter-order-id": "输入您的订单编号",
+    "current-location": "当前订单位置",
+    "order-details": "订单详细信息",
+    "freight-tracking-code": "货运跟踪代码",
+    "shipping-cost": "运输费用（美元）",
+    "actual-weight": "实际重量（公斤）",
+    "ready-for-collection": "准备好提货",
+    "seller-sent": "卖家已发送",
+    "freight-received": "收到货运",
+    "freight-sent": "货运发送",
+    "buyer-received": "买家收到",
+    "true": "真正",
+    "false": "假",
+    "track-desc": "要跟踪您的订单，请在下面的框中输入您的订单ID，然后按“追踪您的订单”按钮。"
+}
